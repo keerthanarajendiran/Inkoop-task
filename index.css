@@ -1,0 +1,18 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkgray;
+    width:calc( 100% - 100px );
+    padding:20px 50px ;
+}
+.start-btn{
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+li{
+    list-style-type: none;
+}
